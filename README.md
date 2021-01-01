@@ -116,4 +116,4 @@ Make sure your code works before submitting it :D
 <a href="mailto:30daysofwebdevelopment@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width=50 height=50/></a>
 
 
-This is Tarun Rana here, to add some changes
+#This is Tarun Rana here, to add some changes
